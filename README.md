@@ -2,13 +2,13 @@
 
 # GitaVerse: Intelligent Bhagavad Gita Chatbot
 
- GitaVerse is a state-of-the-art AI-powered chatbot designed specifically for deep, context-aware Q&A on the Bhagavad Gita. Leveraging advanced Retrieval-Augmented Generation (RAG), scalable vector search with ChromaDB Cloud, and the blazing-fast Groq LLM, this project demonstrates expertise in modern NLP, cloud infrastructure, and full-stack development. The solution is engineered for reliability, scalability, and an intuitive user experience—making it a valuable resource for students, scholars, and spiritual seekers alike.
+ GitaVerse-AI is a state-of-the-art AI-powered chatbot designed specifically for deep, context-aware Q&A on the Bhagavad Gita. Leveraging advanced Retrieval-Augmented Generation (RAG), scalable vector search with ChromaDB Cloud, and the blazing-fast Groq LLM, this project demonstrates expertise in modern NLP, cloud infrastructure, and full-stack development. The solution is engineered for reliability, scalability, and an intuitive user experience—making it a valuable resource for students, scholars, and spiritual seekers alike.
 
 ---
 
 ## Why GITA-GPT?
 
-Traditional search tools and static Q&A bots often fail to capture the nuanced wisdom of the Bhagavad Gita. GITA-GPT bridges this gap by combining:
+Traditional search tools and static Q&A bots often fail to capture the nuanced wisdom of the Bhagavad Gita. GitaVerse-AI bridges this gap by combining:
 
 - **Semantic Understanding:** Uses vector embeddings to understand the true meaning behind user queries, not just keywords.
 - **Contextual Retrieval:** Surfaces the most relevant verses and explanations, even for complex or open-ended questions.
