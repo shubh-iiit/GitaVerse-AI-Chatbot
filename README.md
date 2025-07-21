@@ -1,4 +1,4 @@
-![GitaVerse Screenshot](images/flute.png)
+![GitaVerse Screenshot](flute.png)
 
 # GitaVerse: Intelligent Bhagavad Gita Chatbot
 
