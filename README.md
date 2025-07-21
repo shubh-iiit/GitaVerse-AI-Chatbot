@@ -6,7 +6,7 @@
 
 ---
 
-## Why GITA-GPT?
+## Why GitaVerse-AI-Chatbot?
 
 Traditional search tools and static Q&A bots often fail to capture the nuanced wisdom of the Bhagavad Gita. GitaVerse-AI bridges this gap by combining:
 
