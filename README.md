@@ -1,4 +1,4 @@
-![GitaVerse Screenshot](flute.png)
+<img src="flute.png" alt="GitaVerse Screenshot" width="200"/>
 
 # GitaVerse: Intelligent Bhagavad Gita Chatbot
 
